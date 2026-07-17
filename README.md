@@ -1,6 +1,6 @@
 # Agent Console · Agent 决策监控台
 
-> 🚀 **在线演示 / Live Demo**：[https://agent-console-inky.vercel.app](https://agent-console-inky.vercel.app)
+> 🚀 **在线演示 / Live Demo**：[agent-console-inky.vercel.app](https://agent-console-inky.vercel.app) ｜ [agent.acornnote.com](https://agent.acornnote.com)（国内推荐）
 >
 > 📦 **源码仓库**：[github.com/wanxiayushaonian/agent-CONSOLE](https://github.com/wanxiayushaonian/agent-CONSOLE)
 
