@@ -1,5 +1,7 @@
 # Agent Console · Agent 决策监控台
 
+> 🚀 **在线演示 / Live Demo**：[https://agent-console-inky.vercel.app](https://agent-console-inky.vercel.app)
+
 > Human-in-the-Loop（人工介入环）AI Agent 决策监控界面。
 > 实时展示 Agent 思考流、冲突预警与决策看板，支持人工干预决策。
 
