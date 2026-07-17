@@ -1,6 +1,8 @@
 # Agent Console · Agent 决策监控台
 
 > 🚀 **在线演示 / Live Demo**：[https://agent-console-inky.vercel.app](https://agent-console-inky.vercel.app)
+>
+> 📦 **源码仓库**：[github.com/wanxiayushaonian/agent-CONSOLE](https://github.com/wanxiayushaonian/agent-CONSOLE)
 
 > Human-in-the-Loop（人工介入环）AI Agent 决策监控界面。
 > 实时展示 Agent 思考流、冲突预警与决策看板，支持人工干预决策。
@@ -22,9 +24,8 @@
 - **框架**：[Next.js 16](https://nextjs.org/)（App Router + Turbopack）+ [React 19](https://react.dev/)
 - **语言**：TypeScript 5
 - **样式**：[Tailwind CSS v4](https://tailwindcss.com/) + [shadcn/ui](https://ui.shadcn.com/)（Radix UI）
-- **状态管理**：Zustand · [TanStack Query](https://tanstack.com/query)
-- **数据库**：[Prisma](https://www.prisma.io/) + SQLite（可选，详见下文）
-- **其他**：next-intl（国际化）、next-auth（认证）、framer-motion、recharts
+- **图表**：[Recharts](https://recharts.org/)
+- **其他**：lucide-react、cmdk、sonner、zod
 
 ## 环境要求
 
